@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b625223a-9642-4170-b15c-18f946512250" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zv8ChlVVIsvoBgj8LI8Q9jrqHU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dailyfresh" type="Python.DjangoServer" factoryName="Django server">
+      <module name="dailyfresh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b625223a-9642-4170-b15c-18f946512250" name="Default Changelist" comment="" />
+      <created>1585708085530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585708085530</updated>
+      <workItem from="1585708123669" duration="1582000" />
+      <workItem from="1585710007255" duration="264000" />
+      <workItem from="1585710522278" duration="499000" />
+      <workItem from="1585711830710" duration="5346000" />
+      <workItem from="1585720233930" duration="6172000" />
+      <workItem from="1585728649369" duration="1640000" />
+      <workItem from="1585735636762" duration="3208000" />
+      <workItem from="1585791379755" duration="2446000" />
+      <workItem from="1585800480077" duration="4505000" />
+      <workItem from="1585809752171" duration="2107000" />
+      <workItem from="1585818862621" duration="5073000" />
+      <workItem from="1585835678271" duration="5156000" />
+      <workItem from="1585885086488" duration="9824000" />
+      <workItem from="1585899172634" duration="233000" />
+      <workItem from="1586068084129" duration="670000" />
+      <workItem from="1586077148221" duration="3405000" />
+      <workItem from="1586088003450" duration="519000" />
+      <workItem from="1586088765357" duration="4814000" />
+      <workItem from="1586134861555" duration="4400000" />
+      <workItem from="1586141737636" duration="598000" />
+      <workItem from="1586149664366" duration="8192000" />
+      <workItem from="1586159345281" duration="2455000" />
+      <workItem from="1586176743487" duration="2116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="215" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1585708882751">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="424" y="215" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/65.24.1301.744@65.24.1301.744" timestamp="1585708882751" />
+    <state x="370" y="124" key="FileChooserDialogImpl" timestamp="1586078099732">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="370" y="124" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1586078099732" />
+    <state x="237" y="101" key="FileChooserDialogImpl/65.24.735.576@65.24.735.576" timestamp="1586075145724" />
+    <state x="239" y="24" key="SettingsEditor" timestamp="1586078203090">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="239" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1586078203090" />
+    <state x="75" y="180" width="735" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1586176747016">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="75" y="180" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1586149804894" />
+    <state x="75" y="180" width="735" height="343" key="com.intellij.ide.util.TipDialog/65.24.735.576@65.24.735.576" timestamp="1586176747016" />
+    <state x="355" y="89" width="719" height="678" key="search.everywhere.popup" timestamp="1586079261108">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="355" y="89" width="719" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1586079261108" />
+    <state x="133" y="210" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586075284304">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="133" y="210" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.24.735.576@65.24.735.576" timestamp="1586075284304" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/user/views.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/user/views.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/user/views.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/apps/goods/views.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="django-line">
+          <url>file://$PROJECT_DIR$/templates/login.html</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
